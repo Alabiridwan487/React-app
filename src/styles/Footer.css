@@ -1,0 +1,11 @@
+footer{
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nine{
+    display: flex;
+    justify-content: center;
+}
